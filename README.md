@@ -99,23 +99,3 @@ pip install -r requirements.txt
 python ingest_data.py
 ```
 
-## Production Deployment
-
-1. Update environment variables in `docker-compose.yml`
-2. Configure Elasticsearch for production
-3. Set up reverse proxy (nginx)
-4. Configure SSL certificates
-5. Set up monitoring and logging
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details
-
